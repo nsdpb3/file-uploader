@@ -1,0 +1,15 @@
+{
+    "name": "khramov/localhost",
+    "autoload": {
+        "psr-4": {
+            "nsdpb3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Viktor Khramov",
+            "email": "xramov14881@gmail.com"
+        }
+    ],
+    "require": {}
+}
